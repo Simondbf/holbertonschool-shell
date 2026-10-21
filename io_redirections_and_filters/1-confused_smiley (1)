@@ -1,4 +1,0 @@
-#!/bin/bash
-printf '\22\28\F4\6F\29\27'
-
-echo -e "\x22\x28\xF4\x6F\x29\x27"
