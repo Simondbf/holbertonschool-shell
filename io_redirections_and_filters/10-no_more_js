@@ -1,0 +1,2 @@
+#!/bin/bash
+stat -f .js | rm -a
