@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -f .js | rm -a
+stat --file == .js | rm -R
