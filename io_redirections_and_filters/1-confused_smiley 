@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '\28'\F4'\6F'\29
