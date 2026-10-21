@@ -1,2 +1,2 @@
 #!/bin/bash
-stat --file == .js * | rm -R
+rm "file ==.js"
