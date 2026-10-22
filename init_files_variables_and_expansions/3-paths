@@ -1,2 +1,2 @@
 #!/bin/bath
-set PATH | rep -c
+set $PATH | rep -c
