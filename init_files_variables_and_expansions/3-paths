@@ -1,2 +1,2 @@
 #!/bin/bash
-set PATH | grep -c
+set PATH | tr ":" "\n" | wc -l
